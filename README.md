@@ -15,7 +15,7 @@ GRUPA: 1133
 Link prezentare proiect:
 https://youtu.be/Yp-4CWFnsUo
 Link publicare proiect:
-http://localhost:3000/
+https://cloud-computing-two-kohl.vercel.app/
 Link GitHub:
 https://github.com/RazvanO27/CloudComputing
 
