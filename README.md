@@ -17,7 +17,7 @@ https://youtu.be/Yp-4CWFnsUo
 Link publicare proiect:
 http://localhost:3000/
 Link GitHub:
-
+https://github.com/RazvanO27/CloudComputing
 
 INTRODUCERE
 "Gym Notes" este o aplicație web modernă, care permite utilizatorilor să creeze, editeze, șteargă și organizeze notițe și sarcini zilnice. Aplicația are scopul de a ne organiza timpul in ceea ce privește activitatea sportivă printr-o interfață intuitivă și prin utilizarea a două servicii cloud integrate prin API-uri REST.
